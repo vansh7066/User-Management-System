@@ -16,7 +16,7 @@
     gap: 9px;
     width: 100%;
     margin-top: 30px;
-    color: rgb(109, 223, 28);
+    color: rgb(52 211 153);
     font-size: 30px;
     font-weight: 700;
 }
@@ -63,7 +63,7 @@ p{
     height: 40px;
     margin: auto;
     color: white;
-    background-color: rgb(109, 223, 28);
+    background-color: rgb(52 211 153);
     border-radius: 50px;
     border: none;
     font-size: 18px;
@@ -76,5 +76,5 @@ p{
     /* justify-content: center; */
     text-align: center;
     /* align-items: center; */
-    margin-right: 100px;
+    padding-right: 70px;
 }

@@ -56,7 +56,7 @@ const SignUp = () => {
                 </div>
             </div>
             <p className='already-account'>Already have an account? <a href='/login'>login here</a></p>
-            <button>Sign Up</button>
+            <button>Register</button>
             <p className='error'>{error}</p>
             {/* style={{justifyContent:'center', alignItems: 'center', marginRight:'100px',color: 'red', fontWeight: '550',}} */}
         </div>

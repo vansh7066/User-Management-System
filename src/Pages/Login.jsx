@@ -47,7 +47,7 @@ const Login = () => {
         </div>
         <p>Forget Password?</p>
         <button>Login</button>
-        <p style={{textAlign:'center', color:'red', fontWeight:'550'}}>{error}</p>
+        <p className='errors'>{error}</p>
     </div>
     </form>
   )
